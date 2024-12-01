@@ -12,8 +12,8 @@ Feel free to explore the site and enjoy!
 
 ## Project Setup
 
-If you wish to run this project locally, follow these steps:
+If you wish to run this projects locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/anime-website.git
+   git clone https://github.com/Hardik19102003/DevOps-Projects.git
